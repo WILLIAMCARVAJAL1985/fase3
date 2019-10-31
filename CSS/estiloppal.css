@@ -94,7 +94,7 @@ li a. btnDesplegable{
 }
 
 .contenidoDesplegable a:hover{
-    background-color: rgb(244, 121, 32);
+    background-color: rgb(243, 121, 32);
 }
 
 .Desplegable:hover .contenidoDesplegable{
